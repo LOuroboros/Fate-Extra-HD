@@ -1,3 +1,11 @@
+# About
+
+This is my personal fork of a seemingly abandoned HD texture pack for the PSP version of Fate/Extra compatible with PPSSPP, a PSP emulator.
+
+This fork serves as a mirror of the original repository and it's also where I'll drop whatever additions I find online.
+
+# (Mostly) Original Readme
+
 Heyas, D3TR4KT1K here! Second update (wow, already Jan 2024) of the texture pack and... few changes are done. Chunk system is problematic to editing, merge, scale, tile again and rename, so, process is slow.  Here's a temporary screenshot of the update:
 ![alt text](https://github.com/Fate-AI-HD-Team/Fate-Extra-HD/assets/63470108/6ea1ac4e-c9c4-439e-ac1d-2a48e9e092d4)
 Rooftop view - Temp reason is, sometimes doors are messed.
@@ -26,10 +34,9 @@ The texture pack is meant to be used with the *PPSSPP* emulator. This is the pro
   * No link can be provided here, as you should dump it yourself using a copy you physically own.
 * Go to *PPSSPP*'s installation folder.
   * If there is no MemStick folder, run the emulator once.
-* Go to the MemStick/PSP folder, and create a TEXTURES folder.
-  * In this newly created folder, create one called ULUS10576 (which is the game's ID).
+* Go to the MemStick/PSP folder, and create a TEXTURES folder if you don't have one already.
 * Download this repository using the Clone or Download option, and download as a Zip file.
-* Extract the contents of the zip file to the ULUS10576 folder so that textures.ini is in the root of the folder.
+* Extract the contents of the zip file and move the ULUS10576 folder to PPSSPP's MemStick/PSP/TEXTURES folder.
 * Boot the game in the emulator, and activate texture replacement.
   * This option should be enabled by default, but if it is not the case, it is under Tools>Developer tools>Replace textures
 
